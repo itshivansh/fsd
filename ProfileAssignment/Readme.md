@@ -1,6 +1,6 @@
 ## Profile
 
-* [Link](./html/Me.html)
+* [Link](./MyProfile/Me.html)
 
-![screenshot_1](./images/screenshot1.PNG)
-![screenshot_2](./images/screenshot2.PNG)
+![screenshot_1](./images/screenshot1.JPG)
+![screenshot_2](./images/screenshot2.JPG)
