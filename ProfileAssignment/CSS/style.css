@@ -1,0 +1,118 @@
+body{
+    font-family: sans-serif;
+    min-width: 500px;
+    width: 100%;
+    margin: auto;
+}
+header{
+    /* display: inline-block;
+    border: 100%;
+    margin: 1px;
+    height: 100%;
+    border: 1px cornflowerblue;
+    padding: auto; */
+    padding-bottom: 0%;
+    background-color: cadetblue;
+    border: .1px solid coral;
+    height: 100px;
+}
+
+h1{
+    margin-top: 40px;
+    float:middle;
+    text-align: center;;
+    padding-top: 0px;
+    background-color: cadetblue;
+    height: 100px;
+    margin-bottom: 0%;
+    overflow: hidden;
+    cursor: pointer; 
+    color:dark whitesmoke;
+}
+#PicRight{
+    /* margin:auto; */
+    float: right;
+    text-align: right;
+    height: 100px;
+    /* border-radius: 50%; */
+    background-color:cadetblue;
+    overflow: hidden; 
+}
+#PicLeft{
+    /* margin:auto; */
+    float: left;
+    text-align: right;
+    height: 100px;
+    /* border-radius: 400%; */
+    background-color: cadetblue;
+    overflow: hidden; 
+}
+/* MArquee{
+    color: navy;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    background-color: whitesmokes;
+    border: 0px;
+
+} */
+/* #name{
+    text-align: center;
+    text-decoration-color:blue;
+    margin-bottom: 20px;
+} */
+#about{
+    border: 100%;
+    margin-top: 0%;
+    text-align: center;
+    height: 750px;
+    background-image:url("../images/2\ \(1\).jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    image-resolution: 100%;
+    background-attachment: fixed;
+    color: whitesmoke; 
+    border-bottom: 0px;  
+    padding-bottom: 0%;
+    margin-bottom: 0%;
+}
+#second{
+    margin-top: 0%;
+    padding-top: 15px;
+    text-align: center;
+    height: 750px;
+    background-image:url("../images/2\ \(2\).jpg");
+    background-size: 100%;
+    /* image-resolution: 10000000px; */
+    border-radius: 3px;
+     /* background-attachment: fixed;  */
+    color: blue;
+}
+#DP{
+    border-radius: 60%;
+    float: center;
+    margin-bottom: 5px;
+}
+button{
+    text-align: center;
+    padding: 5px;
+    border: 2px solid white;
+    border-radius: 50%;
+    background-color:lightseagreen;
+    text-emphasis: circle;
+    text-emphasis-color: black;
+}
+button:hover{
+    background-color: white;
+}
+ul{
+    color: teal;
+    text-decoration: none;
+    list-style: none;
+}
+h4{
+    color: black;
+}
+footer{
+    text-align: center;
+    background-color: cadetblue;
+}
