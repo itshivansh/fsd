@@ -1,0 +1,17 @@
+body{
+    background-color: blanchedalmond;
+    width: 500px;
+    margin: auto;
+
+}
+blockquote{
+    border: 1px solid green;
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+    margin-left: 0px;
+}
+@media screen and (max-width: 900px){
+    body{
+        width: 50%;
+    }
+}
