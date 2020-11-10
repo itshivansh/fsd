@@ -2,7 +2,7 @@
 
  
 
- [Link](exercise.html)
+ [Link](./html/exercise.html)
 
 
 
