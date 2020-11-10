@@ -10,8 +10,8 @@ blockquote{
     text-align: center;
     margin-left: 0px;
 }
-@media screen and (max-width: 900px){
-    body{
+/* @media screen and (max-width: 900px){
+    blockquote{
         width: 50%;
     }
-}
+} */
