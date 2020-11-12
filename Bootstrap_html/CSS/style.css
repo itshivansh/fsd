@@ -86,6 +86,9 @@
   .dropdown-menu{
     background-color: #04070c  !important;
   }
+  .dropdown-menu:hover{
+    display: block;
+  }
   .dropdown-item{
     color: white;
   }
