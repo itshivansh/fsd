@@ -11,11 +11,25 @@
   .carousel-inner{
      height: 530px;     
  }
+ .carousel{
+   margin-bottom: 0%;
+ }
+.card:hover{
+  transform: scale(1);
+}
  body{
      color:whitesmoke;
+     background-color: #04070c;
  }
-
- .item, img{
+/* .card{
+  color: white;
+  background-color: #04070c;
+} */
+.container{
+  margin-top: 0%;
+  background-color: #04070c;
+}
+ .item{
      height: 100% !important;
      width:  100% !important;
  }
@@ -69,3 +83,45 @@
     .sidenav {padding-top: 15px;}
     .sidenav a {font-size: 18px;}
   }
+  .dropdown-menu{
+    background-color: #04070c  !important;
+  }
+  .dropdown-item{
+    color: white;
+  }
+  .form-inline{
+    float: right  !important;
+  }
+  footer{
+    font-size: small;
+  }
+  #list{
+    list-style-type: none;
+    display: inline;
+  }
+  .card-body{
+    color: white;
+    background-color:#04070c  ;
+  }
+  #list{
+    display: inline;
+  }
+  ul#list li {
+    margin-top: 20px;
+    display:inline;
+    list-style: none;
+   display:inline;
+   background-color: #04070c;
+   border-color: white
+}
+footer{
+  font-family: Verdana,Tahoma, sans-serif;
+  font-size: small;
+  margin-top: 200px;
+  text-align: center;
+  padding-bottom: 0%;
+  margin-bottom: 0%;
+}
+#footerImg{
+  height: 50px;
+}
