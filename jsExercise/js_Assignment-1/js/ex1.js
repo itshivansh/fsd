@@ -1,18 +1,20 @@
 // ques 1
 
 
- function high_min(str){
+ function high_min(number){
 
-  var char=str.split(" ");
-   return `${Math.max(char)}  ${Math.min(char)}`;
+  var char=number.split(" ");
+    //return (Math.max.apply(char)+" "  +Math.min.apply(char));
+  return (Math.max.apply(null,char)+" "+ Math.min.apply(null,char));
 }
-var res = prompt("enter the string");
+  let res = prompt("enter the string");
+//let res=(high_min("3 4 5 7"))
 console.log(high_min(res));
 
 
 
 
-// ques 2
+// // ques 2
 
 
 var num = prompt();
@@ -75,10 +77,8 @@ function duplicate(a) {
     for (var k in array) {
         diff.push(k);
     }
-
     return diff;
-}
-
-var arr1 = [2,4,6,7];
-var arr2 =[2,4];
-console.log(arr_difference(arr1,arr2));
+  }
+  var arr1=[7,6,5,8];
+  var arr2=[6,5];
+  console.log(arr_difference(arr1,arr2));
