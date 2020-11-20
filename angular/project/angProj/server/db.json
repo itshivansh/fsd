@@ -1,0 +1,16 @@
+{
+    "employees":
+    [
+       {
+          "id":1,
+          "name":"Vikram",
+          "address":"BNG"
+       },
+
+{
+          "id":2,
+          "name":"Karan",
+          "address":"Nepal"
+       }     
+    ]
+ }
