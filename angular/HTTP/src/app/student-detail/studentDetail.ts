@@ -1,4 +1,4 @@
-export class Student{
+export class StudentDetail{
     name:string;
     address:string;
     constructor(){
