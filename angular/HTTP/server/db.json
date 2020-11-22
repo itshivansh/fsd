@@ -1,0 +1,13 @@
+{
+    "students":[
+       {
+          "name":"ABC",
+          "address":"HYD"
+       },
+
+       {
+          "name":"ABD",
+          "address":"SA"
+       }     
+    ]
+}
