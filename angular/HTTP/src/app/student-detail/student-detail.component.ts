@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { StudentService } from '../student.service';
-import { StudentDetail } from './studentDetail';
+import { Student } from './studentDetail';
 
 @Component({
   selector: 'app-student-detail',
@@ -9,8 +9,8 @@ import { StudentDetail } from './studentDetail';
 })
 export class StudentDetailComponent implements OnInit {
 
-  studentDetail:StudentDetail=new StudentDetail();
-  students:Array<StudentDetail>=[];
+  studentDetail:Student=new Student();
+  students:Array<Student>=[];
   constructor(studentService:StudentService) { 
     studentService.getStudent().subscribe(t=>{this.students=t},error=>{console.log(error);
     }
