@@ -1,0 +1,33 @@
+<!-- <label>
+  Enter email:
+  <input type="text" [formControl]='email'>
+</label>
+<p>
+  Display Value: {{email.value}}
+</p>
+<p>
+  <button (click)="updateEmail()">click to update email</button>
+</p> -->
+
+<form [formGroup]="userprofileForm" (ngSubmit)="onSubmit()">
+  <label>
+    First Name:
+  <input type="text" formControlName='firstName'>
+  </label>
+  <label>
+    First Name:
+  <input type="text" formControlName='firstName'>
+  </label>
+  <label>
+    Age:
+  <input type="text" formControlName='age'>
+  </label>
+  <label>
+    Email:
+  <input type="text" formControlName='email'>
+  </label>
+  <button type="submit">Submit</button>
+</form>
+
+<!-- <app-root></app-root>
+<router-outlet></router-outlet> -->
