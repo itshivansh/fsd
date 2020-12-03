@@ -6,6 +6,7 @@ using DataAccess;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -24,7 +25,9 @@ namespace CustomerFramework
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
-            services.AddDbContext<CustomerDbContext>();
+            //services.AddDbContext<CustomerDbContext>();
+            var constr = Configuration.GetConnectionString("custdb");
+            services.AddDbContext<CustomerDbContext>(options => options.UseSqlServer(constr, b => b.MigrationsAssembly("CustomerFramework")));
             services.AddScoped<ICustomerRepo, CustomerRepo>();
             services.AddMvc();
             //services.AddSingleton<ICustomerRepo, CustomerRepo>();

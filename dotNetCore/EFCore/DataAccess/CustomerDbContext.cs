@@ -8,7 +8,7 @@ namespace DataAccess
     {
         public CustomerDbContext(DbContextOptions<CustomerDbContext> options) : base(options)
         {
-            Database.EnsureCreated();
+           // Database.EnsureCreated();
         }
         public DbSet<Customer> Customers { get; set; }
         public DbSet<Order> Orders { get; set; }
