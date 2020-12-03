@@ -1,0 +1,5 @@
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\StudentDAL\StudentDAL\bin\Debug\netcoreapp3.1\StudentDAL.deps.json
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\StudentDAL\StudentDAL\bin\Debug\netcoreapp3.1\StudentDAL.dll
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\StudentDAL\StudentDAL\obj\Debug\netcoreapp3.1\StudentDAL.csprojAssemblyReference.cache
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\StudentDAL\StudentDAL\obj\Debug\netcoreapp3.1\StudentDAL.AssemblyInfoInputs.cache
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\StudentDAL\StudentDAL\obj\Debug\netcoreapp3.1\StudentDAL.AssemblyInfo.cs

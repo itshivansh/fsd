@@ -1,0 +1,4 @@
+C:\Users\AIEMEN\source\repos\PracticeExerciseADO\PracticeExerciseADO\bin\Debug\netcoreapp3.1\PracticeExerciseADO.exe
+C:\Users\AIEMEN\source\repos\PracticeExerciseADO\PracticeExerciseADO\obj\Debug\netcoreapp3.1\PracticeExerciseADO.csprojAssemblyReference.cache
+C:\Users\AIEMEN\source\repos\PracticeExerciseADO\PracticeExerciseADO\obj\Debug\netcoreapp3.1\PracticeExerciseADO.AssemblyInfoInputs.cache
+C:\Users\AIEMEN\source\repos\PracticeExerciseADO\PracticeExerciseADO\obj\Debug\netcoreapp3.1\PracticeExerciseADO.AssemblyInfo.cs
