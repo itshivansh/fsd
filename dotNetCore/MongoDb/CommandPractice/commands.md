@@ -77,7 +77,7 @@ BulkWriteResult({ \
         "BookId" : "Book3", \
         "BookName" : "HTML", \
         "Author" : "CDE", \
-        "Price" : 300 \
+        "Price" : 300 
         
 }
 ---
@@ -129,7 +129,7 @@ BulkWriteResult({ \
 }
 ---
 > db.Books.update({BookId:'Book2'},{$set:{Price:250}}) \
-WriteResult({ "nMatched" : 1, "nUpserted" : 0, "nModified" : 1 }) \
+WriteResult({ "nMatched" : 1, "nUpserted" : 0, "nModified" : 1 }) 
 ---
 > db.Books.find().pretty() \
 {
