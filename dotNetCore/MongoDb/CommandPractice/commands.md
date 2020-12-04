@@ -1,12 +1,12 @@
 # Some basics commands
 
-> show dbs
-admin   0.000GB
-config  0.000GB
-local   0.000GB
+> show dbs\
+admin   0.000GB\
+config  0.000GB\
+local   0.000GB\
 ---
-> use Practice
-switched to db Practice
+> use Practice\
+switched to db Practice\
 ---
 > show dbs
 admin   0.000GB
