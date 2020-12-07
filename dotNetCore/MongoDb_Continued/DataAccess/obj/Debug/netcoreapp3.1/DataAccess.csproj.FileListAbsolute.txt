@@ -1,0 +1,24 @@
+C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\DataAccess\bin\Debug\netcoreapp3.1\Entity.dll
+C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csprojAssemblyReference.cache
+C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\DataAccess\bin\Debug\netcoreapp3.1\Entity.pdb
+C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\shivansh\Desktop\me\MongoDb_Crud\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+C:\Users\shivansh\Desktop\me\MongoDb_Crud\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\shivansh\Desktop\me\MongoDb_Crud\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\shivansh\Desktop\me\MongoDb_Crud\DataAccess\bin\Debug\netcoreapp3.1\Entity.dll
+C:\Users\shivansh\Desktop\me\MongoDb_Crud\DataAccess\bin\Debug\netcoreapp3.1\Entity.pdb
+C:\Users\shivansh\Desktop\me\MongoDb_Crud\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csprojAssemblyReference.cache
+C:\Users\shivansh\Desktop\me\MongoDb_Crud\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\shivansh\Desktop\me\MongoDb_Crud\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\Users\shivansh\Desktop\me\MongoDb_Crud\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\shivansh\Desktop\me\MongoDb_Crud\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+C:\Users\shivansh\Desktop\me\MongoDb_Crud\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\shivansh\Desktop\me\MongoDb_Crud\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb

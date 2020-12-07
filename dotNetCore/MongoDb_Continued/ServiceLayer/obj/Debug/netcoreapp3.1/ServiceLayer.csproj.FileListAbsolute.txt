@@ -1,0 +1,28 @@
+C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.csprojAssemblyReference.cache
+C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.AssemblyInfo.cs
+C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.deps.json
+C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.dll
+C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.pdb
+C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\ServiceLayer\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\ServiceLayer\bin\Debug\netcoreapp3.1\Entity.dll
+C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\ServiceLayer\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\ServiceLayer\bin\Debug\netcoreapp3.1\Entity.pdb
+C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.csproj.CopyComplete
+C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.dll
+C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.pdb
+C:\Users\shivansh\Desktop\me\MongoDb_Crud\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.deps.json
+C:\Users\shivansh\Desktop\me\MongoDb_Crud\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.dll
+C:\Users\shivansh\Desktop\me\MongoDb_Crud\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.pdb
+C:\Users\shivansh\Desktop\me\MongoDb_Crud\ServiceLayer\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\shivansh\Desktop\me\MongoDb_Crud\ServiceLayer\bin\Debug\netcoreapp3.1\Entity.dll
+C:\Users\shivansh\Desktop\me\MongoDb_Crud\ServiceLayer\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\shivansh\Desktop\me\MongoDb_Crud\ServiceLayer\bin\Debug\netcoreapp3.1\Entity.pdb
+C:\Users\shivansh\Desktop\me\MongoDb_Crud\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.csprojAssemblyReference.cache
+C:\Users\shivansh\Desktop\me\MongoDb_Crud\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\shivansh\Desktop\me\MongoDb_Crud\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.AssemblyInfo.cs
+C:\Users\shivansh\Desktop\me\MongoDb_Crud\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\shivansh\Desktop\me\MongoDb_Crud\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.csproj.CopyComplete
+C:\Users\shivansh\Desktop\me\MongoDb_Crud\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.dll
+C:\Users\shivansh\Desktop\me\MongoDb_Crud\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.pdb
