@@ -1,81 +1,86 @@
-C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\ProductAPI\bin\Debug\netcoreapp3.1\DnsClient.dll
-C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\ProductAPI\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
-C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\ProductAPI\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
-C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\ProductAPI\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
-C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\ProductAPI\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
-C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\ProductAPI\bin\Debug\netcoreapp3.1\SharpCompress.dll
-C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
-C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
-C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
-C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\ProductAPI\bin\Debug\netcoreapp3.1\DataAccess.dll
-C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\ProductAPI\bin\Debug\netcoreapp3.1\Entity.dll
-C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\ProductAPI\bin\Debug\netcoreapp3.1\ServiceLayer.dll
-C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.csprojAssemblyReference.cache
-C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.AssemblyInfoInputs.cache
-C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.AssemblyInfo.cs
-C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.RazorTargetAssemblyInfo.cache
-C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.csproj.CoreCompileInputs.cache
-C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\ProductAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\ProductAPI\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\ProductAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.exe
-C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.deps.json
-C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.runtimeconfig.json
-C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.runtimeconfig.dev.json
-C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.dll
-C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.pdb
-C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
-C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\ProductAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\ProductAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\ProductAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\ProductAPI\bin\Debug\netcoreapp3.1\DataAccess.pdb
-C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\ProductAPI\bin\Debug\netcoreapp3.1\Entity.pdb
-C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\ProductAPI\bin\Debug\netcoreapp3.1\ServiceLayer.pdb
-C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.csproj.CopyComplete
-C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\ProductAPI\obj\Debug\netcoreapp3.1\staticwebassets\ProductAPI.StaticWebAssets.Manifest.cache
-C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\ProductAPI\obj\Debug\netcoreapp3.1\staticwebassets\ProductAPI.StaticWebAssets.xml
-C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.dll
-C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.pdb
-C:\Users\Meghana K.G\Desktop\CGI .Net FSD\mongodb\MongoDb_Crud\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.genruntimeconfig.cache
-C:\Users\shivansh\Desktop\me\MongoDb_Crud\ProductAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\shivansh\Desktop\me\MongoDb_Crud\ProductAPI\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\shivansh\Desktop\me\MongoDb_Crud\ProductAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-C:\Users\shivansh\Desktop\me\MongoDb_Crud\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.exe
-C:\Users\shivansh\Desktop\me\MongoDb_Crud\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.deps.json
-C:\Users\shivansh\Desktop\me\MongoDb_Crud\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.runtimeconfig.json
-C:\Users\shivansh\Desktop\me\MongoDb_Crud\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.runtimeconfig.dev.json
-C:\Users\shivansh\Desktop\me\MongoDb_Crud\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.dll
-C:\Users\shivansh\Desktop\me\MongoDb_Crud\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.pdb
-C:\Users\shivansh\Desktop\me\MongoDb_Crud\ProductAPI\bin\Debug\netcoreapp3.1\DnsClient.dll
-C:\Users\shivansh\Desktop\me\MongoDb_Crud\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
-C:\Users\shivansh\Desktop\me\MongoDb_Crud\ProductAPI\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
-C:\Users\shivansh\Desktop\me\MongoDb_Crud\ProductAPI\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
-C:\Users\shivansh\Desktop\me\MongoDb_Crud\ProductAPI\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
-C:\Users\shivansh\Desktop\me\MongoDb_Crud\ProductAPI\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
-C:\Users\shivansh\Desktop\me\MongoDb_Crud\ProductAPI\bin\Debug\netcoreapp3.1\SharpCompress.dll
-C:\Users\shivansh\Desktop\me\MongoDb_Crud\ProductAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\shivansh\Desktop\me\MongoDb_Crud\ProductAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\shivansh\Desktop\me\MongoDb_Crud\ProductAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\shivansh\Desktop\me\MongoDb_Crud\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
-C:\Users\shivansh\Desktop\me\MongoDb_Crud\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
-C:\Users\shivansh\Desktop\me\MongoDb_Crud\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
-C:\Users\shivansh\Desktop\me\MongoDb_Crud\ProductAPI\bin\Debug\netcoreapp3.1\DataAccess.dll
-C:\Users\shivansh\Desktop\me\MongoDb_Crud\ProductAPI\bin\Debug\netcoreapp3.1\Entity.dll
-C:\Users\shivansh\Desktop\me\MongoDb_Crud\ProductAPI\bin\Debug\netcoreapp3.1\ServiceLayer.dll
-C:\Users\shivansh\Desktop\me\MongoDb_Crud\ProductAPI\bin\Debug\netcoreapp3.1\DataAccess.pdb
-C:\Users\shivansh\Desktop\me\MongoDb_Crud\ProductAPI\bin\Debug\netcoreapp3.1\Entity.pdb
-C:\Users\shivansh\Desktop\me\MongoDb_Crud\ProductAPI\bin\Debug\netcoreapp3.1\ServiceLayer.pdb
-C:\Users\shivansh\Desktop\me\MongoDb_Crud\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.csprojAssemblyReference.cache
-C:\Users\shivansh\Desktop\me\MongoDb_Crud\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.AssemblyInfoInputs.cache
-C:\Users\shivansh\Desktop\me\MongoDb_Crud\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.AssemblyInfo.cs
-C:\Users\shivansh\Desktop\me\MongoDb_Crud\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.csproj.CoreCompileInputs.cache
-C:\Users\shivansh\Desktop\me\MongoDb_Crud\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\shivansh\Desktop\me\MongoDb_Crud\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\shivansh\Desktop\me\MongoDb_Crud\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.RazorTargetAssemblyInfo.cache
-C:\Users\shivansh\Desktop\me\MongoDb_Crud\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.csproj.CopyComplete
-C:\Users\shivansh\Desktop\me\MongoDb_Crud\ProductAPI\obj\Debug\netcoreapp3.1\staticwebassets\ProductAPI.StaticWebAssets.Manifest.cache
-C:\Users\shivansh\Desktop\me\MongoDb_Crud\ProductAPI\obj\Debug\netcoreapp3.1\staticwebassets\ProductAPI.StaticWebAssets.xml
-C:\Users\shivansh\Desktop\me\MongoDb_Crud\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.dll
-C:\Users\shivansh\Desktop\me\MongoDb_Crud\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.pdb
-C:\Users\shivansh\Desktop\me\MongoDb_Crud\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.genruntimeconfig.cache
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\ProductAPI\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\ProductAPI\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\ProductAPI\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\ProductAPI\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\ProductAPI\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\ProductAPI\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\ProductAPI\bin\Debug\netcoreapp3.1\Data_DAL.dll
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\ProductAPI\bin\Debug\netcoreapp3.1\Entities.dll
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\ProductAPI\bin\Debug\netcoreapp3.1\ServiceLayer.dll
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.csprojAssemblyReference.cache
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.AssemblyInfoInputs.cache
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.AssemblyInfo.cs
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.RazorTargetAssemblyInfo.cache
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\ProductAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\ProductAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\ProductAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.exe
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.deps.json
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.runtimeconfig.json
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.runtimeconfig.dev.json
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.dll
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.pdb
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\ProductAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\ProductAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\ProductAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\ProductAPI\bin\Debug\netcoreapp3.1\Data_DAL.pdb
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\ProductAPI\bin\Debug\netcoreapp3.1\ServiceLayer.pdb
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\ProductAPI\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.csproj.CoreCompileInputs.cache
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.csproj.CopyComplete
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\ProductAPI\obj\Debug\netcoreapp3.1\staticwebassets\ProductAPI.StaticWebAssets.Manifest.cache
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\ProductAPI\obj\Debug\netcoreapp3.1\staticwebassets\ProductAPI.StaticWebAssets.xml
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.dll
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.pdb
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.genruntimeconfig.cache
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\ProductAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\ProductAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\ProductAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.exe
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.deps.json
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.runtimeconfig.json
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.runtimeconfig.dev.json
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.dll
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.pdb
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\ProductAPI\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\ProductAPI\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\ProductAPI\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\ProductAPI\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\ProductAPI\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\ProductAPI\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\ProductAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\ProductAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\ProductAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\ProductAPI\bin\Debug\netcoreapp3.1\Data_DAL.dll
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\ProductAPI\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\ProductAPI\bin\Debug\netcoreapp3.1\ServiceLayer.dll
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\ProductAPI\bin\Debug\netcoreapp3.1\Data_DAL.pdb
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\ProductAPI\bin\Debug\netcoreapp3.1\ServiceLayer.pdb
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\ProductAPI\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.csprojAssemblyReference.cache
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.AssemblyInfoInputs.cache
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.AssemblyInfo.cs
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.csproj.CoreCompileInputs.cache
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.RazorTargetAssemblyInfo.cache
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.csproj.CopyComplete
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\ProductAPI\obj\Debug\netcoreapp3.1\staticwebassets\ProductAPI.StaticWebAssets.Manifest.cache
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\ProductAPI\obj\Debug\netcoreapp3.1\staticwebassets\ProductAPI.StaticWebAssets.xml
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.dll
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.pdb
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.genruntimeconfig.cache

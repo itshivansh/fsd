@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PV7faO217yIHmsbxSZWaVds2XF+L4ZPi3WRdvUaaQZChSJ1HJfJWTewIfY+pYUo7BFu1Yv8uJZZfQvfEThOjfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shivansh\\Desktop\\htmlEXercise\\cgiTraining\\dotNetCore\\MongoDb_Continued\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shivansh\\.nuget\\packages\\mongodb.bson\\2.11.5\\mongodb.bson.2.11.5.nupkg.sha512"
+  ],
+  "logs": []
+}

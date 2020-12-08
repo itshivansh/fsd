@@ -1,0 +1,18 @@
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\Entities\obj\Debug\netcoreapp3.1\Entities.pdb

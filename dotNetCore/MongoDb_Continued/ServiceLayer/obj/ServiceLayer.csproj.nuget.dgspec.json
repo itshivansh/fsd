@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shivansh\\Desktop\\me\\MongoDb_Crud\\ServiceLayer\\ServiceLayer.csproj": {}
+    "C:\\Users\\shivansh\\Desktop\\htmlEXercise\\cgiTraining\\dotNetCore\\MongoDb_Continued\\ServiceLayer\\ServiceLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shivansh\\Desktop\\me\\MongoDb_Crud\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\shivansh\\Desktop\\htmlEXercise\\cgiTraining\\dotNetCore\\MongoDb_Continued\\Data_DAL\\Data_DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shivansh\\Desktop\\me\\MongoDb_Crud\\DataAccess\\DataAccess.csproj",
-        "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\shivansh\\Desktop\\me\\MongoDb_Crud\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\shivansh\\Desktop\\htmlEXercise\\cgiTraining\\dotNetCore\\MongoDb_Continued\\Data_DAL\\Data_DAL.csproj",
+        "projectName": "Data_DAL",
+        "projectPath": "C:\\Users\\shivansh\\Desktop\\htmlEXercise\\cgiTraining\\dotNetCore\\MongoDb_Continued\\Data_DAL\\Data_DAL.csproj",
         "packagesPath": "C:\\Users\\shivansh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shivansh\\Desktop\\me\\MongoDb_Crud\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\shivansh\\Desktop\\htmlEXercise\\cgiTraining\\dotNetCore\\MongoDb_Continued\\Data_DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\shivansh\\Desktop\\me\\MongoDb_Crud\\Entity\\Entity.csproj": {
-                "projectPath": "C:\\Users\\shivansh\\Desktop\\me\\MongoDb_Crud\\Entity\\Entity.csproj"
+              "C:\\Users\\shivansh\\Desktop\\htmlEXercise\\cgiTraining\\dotNetCore\\MongoDb_Continued\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\shivansh\\Desktop\\htmlEXercise\\cgiTraining\\dotNetCore\\MongoDb_Continued\\Entities\\Entities.csproj"
               }
             }
           }
@@ -45,6 +45,10 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
             "MongoDB.Driver": {
               "target": "Package",
               "version": "[2.11.5, )"
@@ -69,14 +73,14 @@
         }
       }
     },
-    "C:\\Users\\shivansh\\Desktop\\me\\MongoDb_Crud\\Entity\\Entity.csproj": {
+    "C:\\Users\\shivansh\\Desktop\\htmlEXercise\\cgiTraining\\dotNetCore\\MongoDb_Continued\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shivansh\\Desktop\\me\\MongoDb_Crud\\Entity\\Entity.csproj",
-        "projectName": "Entity",
-        "projectPath": "C:\\Users\\shivansh\\Desktop\\me\\MongoDb_Crud\\Entity\\Entity.csproj",
+        "projectUniqueName": "C:\\Users\\shivansh\\Desktop\\htmlEXercise\\cgiTraining\\dotNetCore\\MongoDb_Continued\\Entities\\Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "C:\\Users\\shivansh\\Desktop\\htmlEXercise\\cgiTraining\\dotNetCore\\MongoDb_Continued\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\shivansh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shivansh\\Desktop\\me\\MongoDb_Crud\\Entity\\obj\\",
+        "outputPath": "C:\\Users\\shivansh\\Desktop\\htmlEXercise\\cgiTraining\\dotNetCore\\MongoDb_Continued\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -130,14 +134,14 @@
         }
       }
     },
-    "C:\\Users\\shivansh\\Desktop\\me\\MongoDb_Crud\\ServiceLayer\\ServiceLayer.csproj": {
+    "C:\\Users\\shivansh\\Desktop\\htmlEXercise\\cgiTraining\\dotNetCore\\MongoDb_Continued\\ServiceLayer\\ServiceLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shivansh\\Desktop\\me\\MongoDb_Crud\\ServiceLayer\\ServiceLayer.csproj",
+        "projectUniqueName": "C:\\Users\\shivansh\\Desktop\\htmlEXercise\\cgiTraining\\dotNetCore\\MongoDb_Continued\\ServiceLayer\\ServiceLayer.csproj",
         "projectName": "ServiceLayer",
-        "projectPath": "C:\\Users\\shivansh\\Desktop\\me\\MongoDb_Crud\\ServiceLayer\\ServiceLayer.csproj",
+        "projectPath": "C:\\Users\\shivansh\\Desktop\\htmlEXercise\\cgiTraining\\dotNetCore\\MongoDb_Continued\\ServiceLayer\\ServiceLayer.csproj",
         "packagesPath": "C:\\Users\\shivansh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shivansh\\Desktop\\me\\MongoDb_Crud\\ServiceLayer\\obj\\",
+        "outputPath": "C:\\Users\\shivansh\\Desktop\\htmlEXercise\\cgiTraining\\dotNetCore\\MongoDb_Continued\\ServiceLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -156,11 +160,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\shivansh\\Desktop\\me\\MongoDb_Crud\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\shivansh\\Desktop\\me\\MongoDb_Crud\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\shivansh\\Desktop\\htmlEXercise\\cgiTraining\\dotNetCore\\MongoDb_Continued\\Data_DAL\\Data_DAL.csproj": {
+                "projectPath": "C:\\Users\\shivansh\\Desktop\\htmlEXercise\\cgiTraining\\dotNetCore\\MongoDb_Continued\\Data_DAL\\Data_DAL.csproj"
               },
-              "C:\\Users\\shivansh\\Desktop\\me\\MongoDb_Crud\\Entity\\Entity.csproj": {
-                "projectPath": "C:\\Users\\shivansh\\Desktop\\me\\MongoDb_Crud\\Entity\\Entity.csproj"
+              "C:\\Users\\shivansh\\Desktop\\htmlEXercise\\cgiTraining\\dotNetCore\\MongoDb_Continued\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\shivansh\\Desktop\\htmlEXercise\\cgiTraining\\dotNetCore\\MongoDb_Continued\\Entities\\Entities.csproj"
               }
             }
           }

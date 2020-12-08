@@ -1,0 +1,24 @@
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\Data_DAL\bin\Debug\netcoreapp3.1\Data_DAL.deps.json
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\Data_DAL\bin\Debug\netcoreapp3.1\Data_DAL.dll
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\Data_DAL\obj\Debug\netcoreapp3.1\Data_DAL.csprojAssemblyReference.cache
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\Data_DAL\obj\Debug\netcoreapp3.1\Data_DAL.AssemblyInfoInputs.cache
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\Data_DAL\obj\Debug\netcoreapp3.1\Data_DAL.AssemblyInfo.cs
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\Data_DAL\bin\Debug\netcoreapp3.1\Data_DAL.pdb
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\Data_DAL\bin\Debug\netcoreapp3.1\Entities.dll
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\Data_DAL\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\Data_DAL\obj\Debug\netcoreapp3.1\Data_DAL.csproj.CopyComplete
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\Data_DAL\obj\Debug\netcoreapp3.1\Data_DAL.dll
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\Data_DAL\obj\Debug\netcoreapp3.1\Data_DAL.pdb
+C:\CGI\CGI core training\backendprojects\MongoDBOperations\Data_DAL\obj\Debug\netcoreapp3.1\Data_DAL.csproj.CoreCompileInputs.cache
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\Data_DAL\bin\Debug\netcoreapp3.1\Data_DAL.deps.json
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\Data_DAL\bin\Debug\netcoreapp3.1\Data_DAL.dll
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\Data_DAL\bin\Debug\netcoreapp3.1\Data_DAL.pdb
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\Data_DAL\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\Data_DAL\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\Data_DAL\obj\Debug\netcoreapp3.1\Data_DAL.csprojAssemblyReference.cache
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\Data_DAL\obj\Debug\netcoreapp3.1\Data_DAL.AssemblyInfoInputs.cache
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\Data_DAL\obj\Debug\netcoreapp3.1\Data_DAL.AssemblyInfo.cs
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\Data_DAL\obj\Debug\netcoreapp3.1\Data_DAL.csproj.CoreCompileInputs.cache
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\Data_DAL\obj\Debug\netcoreapp3.1\Data_DAL.csproj.CopyComplete
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\Data_DAL\obj\Debug\netcoreapp3.1\Data_DAL.dll
+C:\Users\shivansh\Desktop\htmlEXercise\cgiTraining\dotNetCore\MongoDb_Continued\Data_DAL\obj\Debug\netcoreapp3.1\Data_DAL.pdb

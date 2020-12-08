@@ -2,8 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using DataAccess.Repository;
-using Entity.Models;
+using DataDAL.Repository;
+using Entities.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using ServiceLayer.Services;
@@ -14,39 +14,42 @@ namespace ProductAPI.Controllers
     [ApiController]
     public class ProductController : ControllerBase
     {
-        readonly IProductRepository productRepository;
         private readonly IProductService productService;
 
-        public ProductController(IProductRepository _productRepository,IProductService _productService)
+        public ProductController(IProductService _productService)
         {
-            productRepository = _productRepository;
+
             productService = _productService;
 
         }
         [HttpGet]
-        public IActionResult Get([FromBody] Product product)
+        public IActionResult Get()
         {
-            productService.GetProducts(product);
-            return Ok();
+            
+            return Ok(productService.GetProducts());
         }
- 
+        [HttpGet("{id:int}")]
+        public IActionResult GetProductById(int id)
+        {
+            return Ok(productService.GetProductById(id));
+        }
+
         [HttpPost]
         public IActionResult Post([FromBody] Product product)
         {
             productService.AddProduct(product);
-            return Created("api/Building", 201);
+            return Created("api/Product", product);
         }
         [HttpPut]
         public IActionResult Put([FromBody] Product product)
         {
-            productService.UpdateProduct(product);
+            productService.UpdateProduct(product.ProductId,product);
             return Ok();
         }
         [HttpDelete]
-        public IActionResult Delete([FromBody] Product product)
+        public IActionResult Delete(int id)
         {
-            productService.DeleteProduct(product);
-            return Ok();
+            return Ok(productService.DeleteProduct(id));
         }
     }
 }

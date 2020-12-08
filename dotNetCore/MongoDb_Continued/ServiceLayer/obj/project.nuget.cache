@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "R4nTnEpmvKZ2EyCsq5KVkwJgxkaKh4MLlE/zxAHjOHaeH/KF1yWkeZ3uzIO/dTa/JL5RIzZCXWLU0nDP9orjiA==",
+  "dgSpecHash": "8ATWhZx0e3YGwOQWtaLUrhNj6gWSl+1zJ3FWS22Y2ZaAXB9HRcTQgTYymo4LAmH+l23uQaidGKeSvjvWXpAibQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\shivansh\\Desktop\\me\\MongoDb_Crud\\ServiceLayer\\ServiceLayer.csproj",
+  "projectFilePath": "C:\\Users\\shivansh\\Desktop\\htmlEXercise\\cgiTraining\\dotNetCore\\MongoDb_Continued\\ServiceLayer\\ServiceLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\shivansh\\.nuget\\packages\\dnsclient\\1.3.1\\dnsclient.1.3.1.nupkg.sha512",
+    "C:\\Users\\shivansh\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\shivansh\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
     "C:\\Users\\shivansh\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
     "C:\\Users\\shivansh\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\shivansh\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",

@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "UJS6F/nGifKQGjSnT+dfqkyqFScxQFoJAVKacteYha69eEBCMTMG9eG4IdwIo4fMyYeYTGD7Mg4imf4d1r11Uw==",
+  "dgSpecHash": "UH2B74VL8bG4a6hos+TueZGZtyYKvYvpL+uxuJAW/9HOh2rBxcI81vd4A/uFHkSbbH0hmfSc0WQ3QpV8E5RCbA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\shivansh\\Desktop\\me\\MongoDb_Crud\\ProductAPI\\ProductAPI.csproj",
+  "projectFilePath": "C:\\Users\\shivansh\\Desktop\\htmlEXercise\\cgiTraining\\dotNetCore\\MongoDb_Continued\\ProductAPI\\ProductAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\shivansh\\.nuget\\packages\\dnsclient\\1.3.1\\dnsclient.1.3.1.nupkg.sha512",
     "C:\\Users\\shivansh\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\shivansh\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\shivansh\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
     "C:\\Users\\shivansh\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
     "C:\\Users\\shivansh\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\shivansh\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

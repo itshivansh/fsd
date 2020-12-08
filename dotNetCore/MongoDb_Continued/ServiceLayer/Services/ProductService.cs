@@ -1,69 +1,66 @@
-﻿using DataAccess.Repository;
-using Entity.Models;
-using ServiceLayer.Services;
+﻿using DataDAL.Repository;
+using Entities.Models;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace ServiceLayer
+namespace ServiceLayer.Services
 {
     public class ProductService : IProductService
     {
         private readonly IProductRepository _productRepository;
-        //private readonly Product product;
         public ProductService(IProductRepository productRepository)
         {
             _productRepository = productRepository;
         }
-        void IProductService.AddProduct(Product product)
+        public Product AddProduct(Product product)
         {
-            var prouctAvailabilityStatus = _productRepository.IsProductExist(product);
-            if (!prouctAvailabilityStatus)
-            {
-                _productRepository.AddProduct(product);
-            }
-            else
-            {
-                throw new Exception("Product already Exist");
-            }
+            return _productRepository.AddProduct(product);
+            //var productAvailabilityStatus = _productRepository.IsProductExists(product);
+            //if(!productAvailabilityStatus)
+            //{
+            //    _productRepository.AddProduct(product);
+            //}
+            //else
+            //{
+            //    throw new Exception("Product Exist");
+            //}
         }
 
-        void IProductService.DeleteProduct(Product product)
+        public List<Product> GetProductById(int id)
         {
-            var prouctAvailabilityStatus = _productRepository.IsProductExist(product);
-            if (prouctAvailabilityStatus)
-            {
-                _productRepository.DeleteProduct(product.ProductId);
-            }
-            else
-            {
-                throw new Exception("Product doesnot Exist");
-            }
+            return _productRepository.GetProductById(id);
+        }
+        public bool DeleteProduct(int id)
+        {
+           return  _productRepository.DeleteProduct(id);
+            //var productAvailabilityStatus = _productRepository.IsProductExistWithId(id);
+            //if (productAvailabilityStatus)
+            //{
+            //    _productRepository.DeleteProduct(id);
+            //}
+            //else
+            //{
+            //    throw new Exception("Product doesnot Exist");
+            //}
         }
 
-        void IProductService.GetProducts(Product product)
+        public List<Product> GetProducts()
         {
-            var prouctAvailabilityStatus = _productRepository.IsProductExist(product);
-            if (prouctAvailabilityStatus)
-            {
-                _productRepository.GetProducts();
-            }
-            else
-            {
-                throw new Exception("Empty repository");
-            }
+            return _productRepository.GetProducts();
         }
 
-        void IProductService.UpdateProduct(Product product)
+
+        public void UpdateProduct(int id, Product product)
         {
-            var prouctAvailabilityStatus = _productRepository.IsProductExist(product);
-            if (prouctAvailabilityStatus)
+            var productAvailabilityStatus = _productRepository.IsProductExistWithId(id);
+            if (productAvailabilityStatus)
             {
-                _productRepository.UpdateProduct(product.ProductId,product);
+                _productRepository.UpdateProduct(id,product);
             }
             else
             {
-                throw new Exception("Product dos not exist");
+                throw new Exception("Product not found");
             }
         }
     }
