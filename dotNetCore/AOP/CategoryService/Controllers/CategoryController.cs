@@ -10,8 +10,10 @@ using CategoryService.Utilities;
 namespace CategoryService.API.Controllers
 {
     //[Authorize]
-    [ExceptionHandler]
+    //[ExceptionHandler]
+
     [Route("api/[controller]")]
+    [ApiController]
     public class CategoryController : Controller
     {
         private readonly ICategoryService service;

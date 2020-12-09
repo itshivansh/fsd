@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Text;
+using CategoryService.Middleware;
 using CategoryService.Models;
 using CategoryService.Repository;
 using CategoryService.Service;
@@ -56,6 +57,7 @@ namespace CategoryService
                 c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V1");
             });
 
+            app.UseMiddleware<CustomExceptionsMiddleware>();
             app.UseMvc();
         }
 
