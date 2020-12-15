@@ -1,0 +1,72 @@
+C:\Users\adminvm.adminvm\Desktop\fsd\exercise-15\AuthenticationService\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\adminvm.adminvm\Desktop\fsd\exercise-15\AuthenticationService\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\adminvm.adminvm\Desktop\fsd\exercise-15\AuthenticationService\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\adminvm.adminvm\Desktop\fsd\exercise-15\AuthenticationService\bin\Debug\netcoreapp2.2\AuthenticationService.deps.json
+C:\Users\adminvm.adminvm\Desktop\fsd\exercise-15\AuthenticationService\bin\Debug\netcoreapp2.2\AuthenticationService.runtimeconfig.json
+C:\Users\adminvm.adminvm\Desktop\fsd\exercise-15\AuthenticationService\bin\Debug\netcoreapp2.2\AuthenticationService.runtimeconfig.dev.json
+C:\Users\adminvm.adminvm\Desktop\fsd\exercise-15\AuthenticationService\bin\Debug\netcoreapp2.2\AuthenticationService.dll
+C:\Users\adminvm.adminvm\Desktop\fsd\exercise-15\AuthenticationService\bin\Debug\netcoreapp2.2\AuthenticationService.pdb
+C:\Users\adminvm.adminvm\Desktop\fsd\exercise-15\AuthenticationService\obj\Debug\netcoreapp2.2\AuthenticationService.csprojAssemblyReference.cache
+C:\Users\adminvm.adminvm\Desktop\fsd\exercise-15\AuthenticationService\obj\Debug\netcoreapp2.2\AuthenticationService.AssemblyInfoInputs.cache
+C:\Users\adminvm.adminvm\Desktop\fsd\exercise-15\AuthenticationService\obj\Debug\netcoreapp2.2\AuthenticationService.AssemblyInfo.cs
+C:\Users\adminvm.adminvm\Desktop\fsd\exercise-15\AuthenticationService\obj\Debug\netcoreapp2.2\AuthenticationService.RazorAssemblyInfo.cache
+C:\Users\adminvm.adminvm\Desktop\fsd\exercise-15\AuthenticationService\obj\Debug\netcoreapp2.2\AuthenticationService.RazorAssemblyInfo.cs
+C:\Users\adminvm.adminvm\Desktop\fsd\exercise-15\AuthenticationService\obj\Debug\netcoreapp2.2\AuthenticationService.RazorTargetAssemblyInfo.cache
+C:\Users\adminvm.adminvm\Desktop\fsd\exercise-15\AuthenticationService\obj\Debug\netcoreapp2.2\AuthenticationService.dll
+C:\Users\adminvm.adminvm\Desktop\fsd\exercise-15\AuthenticationService\obj\Debug\netcoreapp2.2\AuthenticationService.pdb
+C:\Users\adminvm.adminvm\Desktop\fsd\exercise-15\AuthenticationService\obj\Debug\netcoreapp2.2\AuthenticationService.genruntimeconfig.cache
+C:\Users\adminvm.adminvm\Desktop\fsd\exercise-15\AuthenticationService\obj\Debug\netcoreapp2.2\AuthenticationService.csproj.CoreCompileInputs.cache
+C:\Users\adminvm.adminvm\Desktop\CGI .NET FSD\exercise-15\AuthenticationService\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\adminvm.adminvm\Desktop\CGI .NET FSD\exercise-15\AuthenticationService\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\adminvm.adminvm\Desktop\CGI .NET FSD\exercise-15\AuthenticationService\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\adminvm.adminvm\Desktop\CGI .NET FSD\exercise-15\AuthenticationService\bin\Debug\netcoreapp2.2\AuthenticationService.deps.json
+C:\Users\adminvm.adminvm\Desktop\CGI .NET FSD\exercise-15\AuthenticationService\bin\Debug\netcoreapp2.2\AuthenticationService.runtimeconfig.json
+C:\Users\adminvm.adminvm\Desktop\CGI .NET FSD\exercise-15\AuthenticationService\bin\Debug\netcoreapp2.2\AuthenticationService.runtimeconfig.dev.json
+C:\Users\adminvm.adminvm\Desktop\CGI .NET FSD\exercise-15\AuthenticationService\bin\Debug\netcoreapp2.2\AuthenticationService.dll
+C:\Users\adminvm.adminvm\Desktop\CGI .NET FSD\exercise-15\AuthenticationService\bin\Debug\netcoreapp2.2\AuthenticationService.pdb
+C:\Users\adminvm.adminvm\Desktop\CGI .NET FSD\exercise-15\AuthenticationService\obj\Debug\netcoreapp2.2\AuthenticationService.csprojAssemblyReference.cache
+C:\Users\adminvm.adminvm\Desktop\CGI .NET FSD\exercise-15\AuthenticationService\obj\Debug\netcoreapp2.2\AuthenticationService.AssemblyInfoInputs.cache
+C:\Users\adminvm.adminvm\Desktop\CGI .NET FSD\exercise-15\AuthenticationService\obj\Debug\netcoreapp2.2\AuthenticationService.AssemblyInfo.cs
+C:\Users\adminvm.adminvm\Desktop\CGI .NET FSD\exercise-15\AuthenticationService\obj\Debug\netcoreapp2.2\AuthenticationService.csproj.CoreCompileInputs.cache
+C:\Users\adminvm.adminvm\Desktop\CGI .NET FSD\exercise-15\AuthenticationService\obj\Debug\netcoreapp2.2\AuthenticationService.RazorAssemblyInfo.cache
+C:\Users\adminvm.adminvm\Desktop\CGI .NET FSD\exercise-15\AuthenticationService\obj\Debug\netcoreapp2.2\AuthenticationService.RazorAssemblyInfo.cs
+C:\Users\adminvm.adminvm\Desktop\CGI .NET FSD\exercise-15\AuthenticationService\obj\Debug\netcoreapp2.2\AuthenticationService.RazorTargetAssemblyInfo.cache
+C:\Users\adminvm.adminvm\Desktop\CGI .NET FSD\exercise-15\AuthenticationService\obj\Debug\netcoreapp2.2\AuthenticationService.dll
+C:\Users\adminvm.adminvm\Desktop\CGI .NET FSD\exercise-15\AuthenticationService\obj\Debug\netcoreapp2.2\AuthenticationService.pdb
+C:\Users\adminvm.adminvm\Desktop\CGI .NET FSD\exercise-15\AuthenticationService\obj\Debug\netcoreapp2.2\AuthenticationService.genruntimeconfig.cache
+C:\Users\adminvm.adminvm\Desktop\exercise-15\AuthenticationService\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\adminvm.adminvm\Desktop\exercise-15\AuthenticationService\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\adminvm.adminvm\Desktop\exercise-15\AuthenticationService\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\adminvm.adminvm\Desktop\exercise-15\AuthenticationService\bin\Debug\netcoreapp2.2\AuthenticationService.deps.json
+C:\Users\adminvm.adminvm\Desktop\exercise-15\AuthenticationService\bin\Debug\netcoreapp2.2\AuthenticationService.runtimeconfig.json
+C:\Users\adminvm.adminvm\Desktop\exercise-15\AuthenticationService\bin\Debug\netcoreapp2.2\AuthenticationService.runtimeconfig.dev.json
+C:\Users\adminvm.adminvm\Desktop\exercise-15\AuthenticationService\bin\Debug\netcoreapp2.2\AuthenticationService.dll
+C:\Users\adminvm.adminvm\Desktop\exercise-15\AuthenticationService\bin\Debug\netcoreapp2.2\AuthenticationService.pdb
+C:\Users\adminvm.adminvm\Desktop\exercise-15\AuthenticationService\obj\Debug\netcoreapp2.2\AuthenticationService.csprojAssemblyReference.cache
+C:\Users\adminvm.adminvm\Desktop\exercise-15\AuthenticationService\obj\Debug\netcoreapp2.2\AuthenticationService.AssemblyInfoInputs.cache
+C:\Users\adminvm.adminvm\Desktop\exercise-15\AuthenticationService\obj\Debug\netcoreapp2.2\AuthenticationService.AssemblyInfo.cs
+C:\Users\adminvm.adminvm\Desktop\exercise-15\AuthenticationService\obj\Debug\netcoreapp2.2\AuthenticationService.csproj.CoreCompileInputs.cache
+C:\Users\adminvm.adminvm\Desktop\exercise-15\AuthenticationService\obj\Debug\netcoreapp2.2\AuthenticationService.RazorAssemblyInfo.cache
+C:\Users\adminvm.adminvm\Desktop\exercise-15\AuthenticationService\obj\Debug\netcoreapp2.2\AuthenticationService.RazorAssemblyInfo.cs
+C:\Users\adminvm.adminvm\Desktop\exercise-15\AuthenticationService\obj\Debug\netcoreapp2.2\AuthenticationService.RazorTargetAssemblyInfo.cache
+C:\Users\adminvm.adminvm\Desktop\exercise-15\AuthenticationService\obj\Debug\netcoreapp2.2\AuthenticationService.dll
+C:\Users\adminvm.adminvm\Desktop\exercise-15\AuthenticationService\obj\Debug\netcoreapp2.2\AuthenticationService.pdb
+C:\Users\adminvm.adminvm\Desktop\exercise-15\AuthenticationService\obj\Debug\netcoreapp2.2\AuthenticationService.genruntimeconfig.cache
+C:\Users\adminvm.adminvm\Desktop\training\htmlexercise\dotNetCore\Docker\docker_ex-15\AuthenticationService\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\adminvm.adminvm\Desktop\training\htmlexercise\dotNetCore\Docker\docker_ex-15\AuthenticationService\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\adminvm.adminvm\Desktop\training\htmlexercise\dotNetCore\Docker\docker_ex-15\AuthenticationService\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\adminvm.adminvm\Desktop\training\htmlexercise\dotNetCore\Docker\docker_ex-15\AuthenticationService\bin\Debug\netcoreapp2.2\AuthenticationService.deps.json
+C:\Users\adminvm.adminvm\Desktop\training\htmlexercise\dotNetCore\Docker\docker_ex-15\AuthenticationService\bin\Debug\netcoreapp2.2\AuthenticationService.runtimeconfig.json
+C:\Users\adminvm.adminvm\Desktop\training\htmlexercise\dotNetCore\Docker\docker_ex-15\AuthenticationService\bin\Debug\netcoreapp2.2\AuthenticationService.runtimeconfig.dev.json
+C:\Users\adminvm.adminvm\Desktop\training\htmlexercise\dotNetCore\Docker\docker_ex-15\AuthenticationService\bin\Debug\netcoreapp2.2\AuthenticationService.dll
+C:\Users\adminvm.adminvm\Desktop\training\htmlexercise\dotNetCore\Docker\docker_ex-15\AuthenticationService\bin\Debug\netcoreapp2.2\AuthenticationService.pdb
+C:\Users\adminvm.adminvm\Desktop\training\htmlexercise\dotNetCore\Docker\docker_ex-15\AuthenticationService\obj\Debug\netcoreapp2.2\AuthenticationService.csprojAssemblyReference.cache
+C:\Users\adminvm.adminvm\Desktop\training\htmlexercise\dotNetCore\Docker\docker_ex-15\AuthenticationService\obj\Debug\netcoreapp2.2\AuthenticationService.AssemblyInfoInputs.cache
+C:\Users\adminvm.adminvm\Desktop\training\htmlexercise\dotNetCore\Docker\docker_ex-15\AuthenticationService\obj\Debug\netcoreapp2.2\AuthenticationService.AssemblyInfo.cs
+C:\Users\adminvm.adminvm\Desktop\training\htmlexercise\dotNetCore\Docker\docker_ex-15\AuthenticationService\obj\Debug\netcoreapp2.2\AuthenticationService.csproj.CoreCompileInputs.cache
+C:\Users\adminvm.adminvm\Desktop\training\htmlexercise\dotNetCore\Docker\docker_ex-15\AuthenticationService\obj\Debug\netcoreapp2.2\AuthenticationService.RazorAssemblyInfo.cache
+C:\Users\adminvm.adminvm\Desktop\training\htmlexercise\dotNetCore\Docker\docker_ex-15\AuthenticationService\obj\Debug\netcoreapp2.2\AuthenticationService.RazorAssemblyInfo.cs
+C:\Users\adminvm.adminvm\Desktop\training\htmlexercise\dotNetCore\Docker\docker_ex-15\AuthenticationService\obj\Debug\netcoreapp2.2\AuthenticationService.RazorTargetAssemblyInfo.cache
+C:\Users\adminvm.adminvm\Desktop\training\htmlexercise\dotNetCore\Docker\docker_ex-15\AuthenticationService\obj\Debug\netcoreapp2.2\AuthenticationService.dll
+C:\Users\adminvm.adminvm\Desktop\training\htmlexercise\dotNetCore\Docker\docker_ex-15\AuthenticationService\obj\Debug\netcoreapp2.2\AuthenticationService.pdb
+C:\Users\adminvm.adminvm\Desktop\training\htmlexercise\dotNetCore\Docker\docker_ex-15\AuthenticationService\obj\Debug\netcoreapp2.2\AuthenticationService.genruntimeconfig.cache

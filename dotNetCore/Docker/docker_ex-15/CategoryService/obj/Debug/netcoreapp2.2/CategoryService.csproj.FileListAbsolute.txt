@@ -1,0 +1,72 @@
+C:\Users\adminvm.adminvm\Desktop\fsd\exercise-15\CategoryService\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\adminvm.adminvm\Desktop\fsd\exercise-15\CategoryService\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\adminvm.adminvm\Desktop\fsd\exercise-15\CategoryService\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\adminvm.adminvm\Desktop\fsd\exercise-15\CategoryService\bin\Debug\netcoreapp2.2\CategoryService.deps.json
+C:\Users\adminvm.adminvm\Desktop\fsd\exercise-15\CategoryService\bin\Debug\netcoreapp2.2\CategoryService.runtimeconfig.json
+C:\Users\adminvm.adminvm\Desktop\fsd\exercise-15\CategoryService\bin\Debug\netcoreapp2.2\CategoryService.runtimeconfig.dev.json
+C:\Users\adminvm.adminvm\Desktop\fsd\exercise-15\CategoryService\bin\Debug\netcoreapp2.2\CategoryService.dll
+C:\Users\adminvm.adminvm\Desktop\fsd\exercise-15\CategoryService\bin\Debug\netcoreapp2.2\CategoryService.pdb
+C:\Users\adminvm.adminvm\Desktop\fsd\exercise-15\CategoryService\obj\Debug\netcoreapp2.2\CategoryService.csprojAssemblyReference.cache
+C:\Users\adminvm.adminvm\Desktop\fsd\exercise-15\CategoryService\obj\Debug\netcoreapp2.2\CategoryService.AssemblyInfoInputs.cache
+C:\Users\adminvm.adminvm\Desktop\fsd\exercise-15\CategoryService\obj\Debug\netcoreapp2.2\CategoryService.AssemblyInfo.cs
+C:\Users\adminvm.adminvm\Desktop\fsd\exercise-15\CategoryService\obj\Debug\netcoreapp2.2\CategoryService.RazorAssemblyInfo.cache
+C:\Users\adminvm.adminvm\Desktop\fsd\exercise-15\CategoryService\obj\Debug\netcoreapp2.2\CategoryService.RazorAssemblyInfo.cs
+C:\Users\adminvm.adminvm\Desktop\fsd\exercise-15\CategoryService\obj\Debug\netcoreapp2.2\CategoryService.RazorTargetAssemblyInfo.cache
+C:\Users\adminvm.adminvm\Desktop\fsd\exercise-15\CategoryService\obj\Debug\netcoreapp2.2\CategoryService.dll
+C:\Users\adminvm.adminvm\Desktop\fsd\exercise-15\CategoryService\obj\Debug\netcoreapp2.2\CategoryService.pdb
+C:\Users\adminvm.adminvm\Desktop\fsd\exercise-15\CategoryService\obj\Debug\netcoreapp2.2\CategoryService.genruntimeconfig.cache
+C:\Users\adminvm.adminvm\Desktop\fsd\exercise-15\CategoryService\obj\Debug\netcoreapp2.2\CategoryService.csproj.CoreCompileInputs.cache
+C:\Users\adminvm.adminvm\Desktop\CGI .NET FSD\exercise-15\CategoryService\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\adminvm.adminvm\Desktop\CGI .NET FSD\exercise-15\CategoryService\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\adminvm.adminvm\Desktop\CGI .NET FSD\exercise-15\CategoryService\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\adminvm.adminvm\Desktop\CGI .NET FSD\exercise-15\CategoryService\bin\Debug\netcoreapp2.2\CategoryService.deps.json
+C:\Users\adminvm.adminvm\Desktop\CGI .NET FSD\exercise-15\CategoryService\bin\Debug\netcoreapp2.2\CategoryService.runtimeconfig.json
+C:\Users\adminvm.adminvm\Desktop\CGI .NET FSD\exercise-15\CategoryService\bin\Debug\netcoreapp2.2\CategoryService.runtimeconfig.dev.json
+C:\Users\adminvm.adminvm\Desktop\CGI .NET FSD\exercise-15\CategoryService\bin\Debug\netcoreapp2.2\CategoryService.dll
+C:\Users\adminvm.adminvm\Desktop\CGI .NET FSD\exercise-15\CategoryService\bin\Debug\netcoreapp2.2\CategoryService.pdb
+C:\Users\adminvm.adminvm\Desktop\CGI .NET FSD\exercise-15\CategoryService\obj\Debug\netcoreapp2.2\CategoryService.csprojAssemblyReference.cache
+C:\Users\adminvm.adminvm\Desktop\CGI .NET FSD\exercise-15\CategoryService\obj\Debug\netcoreapp2.2\CategoryService.AssemblyInfoInputs.cache
+C:\Users\adminvm.adminvm\Desktop\CGI .NET FSD\exercise-15\CategoryService\obj\Debug\netcoreapp2.2\CategoryService.AssemblyInfo.cs
+C:\Users\adminvm.adminvm\Desktop\CGI .NET FSD\exercise-15\CategoryService\obj\Debug\netcoreapp2.2\CategoryService.csproj.CoreCompileInputs.cache
+C:\Users\adminvm.adminvm\Desktop\CGI .NET FSD\exercise-15\CategoryService\obj\Debug\netcoreapp2.2\CategoryService.RazorAssemblyInfo.cache
+C:\Users\adminvm.adminvm\Desktop\CGI .NET FSD\exercise-15\CategoryService\obj\Debug\netcoreapp2.2\CategoryService.RazorAssemblyInfo.cs
+C:\Users\adminvm.adminvm\Desktop\CGI .NET FSD\exercise-15\CategoryService\obj\Debug\netcoreapp2.2\CategoryService.RazorTargetAssemblyInfo.cache
+C:\Users\adminvm.adminvm\Desktop\CGI .NET FSD\exercise-15\CategoryService\obj\Debug\netcoreapp2.2\CategoryService.dll
+C:\Users\adminvm.adminvm\Desktop\CGI .NET FSD\exercise-15\CategoryService\obj\Debug\netcoreapp2.2\CategoryService.pdb
+C:\Users\adminvm.adminvm\Desktop\CGI .NET FSD\exercise-15\CategoryService\obj\Debug\netcoreapp2.2\CategoryService.genruntimeconfig.cache
+C:\Users\adminvm.adminvm\Desktop\exercise-15\CategoryService\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\adminvm.adminvm\Desktop\exercise-15\CategoryService\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\adminvm.adminvm\Desktop\exercise-15\CategoryService\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\adminvm.adminvm\Desktop\exercise-15\CategoryService\bin\Debug\netcoreapp2.2\CategoryService.deps.json
+C:\Users\adminvm.adminvm\Desktop\exercise-15\CategoryService\bin\Debug\netcoreapp2.2\CategoryService.runtimeconfig.json
+C:\Users\adminvm.adminvm\Desktop\exercise-15\CategoryService\bin\Debug\netcoreapp2.2\CategoryService.runtimeconfig.dev.json
+C:\Users\adminvm.adminvm\Desktop\exercise-15\CategoryService\bin\Debug\netcoreapp2.2\CategoryService.dll
+C:\Users\adminvm.adminvm\Desktop\exercise-15\CategoryService\bin\Debug\netcoreapp2.2\CategoryService.pdb
+C:\Users\adminvm.adminvm\Desktop\exercise-15\CategoryService\obj\Debug\netcoreapp2.2\CategoryService.csprojAssemblyReference.cache
+C:\Users\adminvm.adminvm\Desktop\exercise-15\CategoryService\obj\Debug\netcoreapp2.2\CategoryService.AssemblyInfoInputs.cache
+C:\Users\adminvm.adminvm\Desktop\exercise-15\CategoryService\obj\Debug\netcoreapp2.2\CategoryService.AssemblyInfo.cs
+C:\Users\adminvm.adminvm\Desktop\exercise-15\CategoryService\obj\Debug\netcoreapp2.2\CategoryService.csproj.CoreCompileInputs.cache
+C:\Users\adminvm.adminvm\Desktop\exercise-15\CategoryService\obj\Debug\netcoreapp2.2\CategoryService.RazorAssemblyInfo.cache
+C:\Users\adminvm.adminvm\Desktop\exercise-15\CategoryService\obj\Debug\netcoreapp2.2\CategoryService.RazorAssemblyInfo.cs
+C:\Users\adminvm.adminvm\Desktop\exercise-15\CategoryService\obj\Debug\netcoreapp2.2\CategoryService.RazorTargetAssemblyInfo.cache
+C:\Users\adminvm.adminvm\Desktop\exercise-15\CategoryService\obj\Debug\netcoreapp2.2\CategoryService.dll
+C:\Users\adminvm.adminvm\Desktop\exercise-15\CategoryService\obj\Debug\netcoreapp2.2\CategoryService.pdb
+C:\Users\adminvm.adminvm\Desktop\exercise-15\CategoryService\obj\Debug\netcoreapp2.2\CategoryService.genruntimeconfig.cache
+C:\Users\adminvm.adminvm\Desktop\training\htmlexercise\dotNetCore\Docker\docker_ex-15\CategoryService\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\adminvm.adminvm\Desktop\training\htmlexercise\dotNetCore\Docker\docker_ex-15\CategoryService\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\adminvm.adminvm\Desktop\training\htmlexercise\dotNetCore\Docker\docker_ex-15\CategoryService\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\adminvm.adminvm\Desktop\training\htmlexercise\dotNetCore\Docker\docker_ex-15\CategoryService\bin\Debug\netcoreapp2.2\CategoryService.deps.json
+C:\Users\adminvm.adminvm\Desktop\training\htmlexercise\dotNetCore\Docker\docker_ex-15\CategoryService\bin\Debug\netcoreapp2.2\CategoryService.runtimeconfig.json
+C:\Users\adminvm.adminvm\Desktop\training\htmlexercise\dotNetCore\Docker\docker_ex-15\CategoryService\bin\Debug\netcoreapp2.2\CategoryService.runtimeconfig.dev.json
+C:\Users\adminvm.adminvm\Desktop\training\htmlexercise\dotNetCore\Docker\docker_ex-15\CategoryService\bin\Debug\netcoreapp2.2\CategoryService.dll
+C:\Users\adminvm.adminvm\Desktop\training\htmlexercise\dotNetCore\Docker\docker_ex-15\CategoryService\bin\Debug\netcoreapp2.2\CategoryService.pdb
+C:\Users\adminvm.adminvm\Desktop\training\htmlexercise\dotNetCore\Docker\docker_ex-15\CategoryService\obj\Debug\netcoreapp2.2\CategoryService.csprojAssemblyReference.cache
+C:\Users\adminvm.adminvm\Desktop\training\htmlexercise\dotNetCore\Docker\docker_ex-15\CategoryService\obj\Debug\netcoreapp2.2\CategoryService.AssemblyInfoInputs.cache
+C:\Users\adminvm.adminvm\Desktop\training\htmlexercise\dotNetCore\Docker\docker_ex-15\CategoryService\obj\Debug\netcoreapp2.2\CategoryService.AssemblyInfo.cs
+C:\Users\adminvm.adminvm\Desktop\training\htmlexercise\dotNetCore\Docker\docker_ex-15\CategoryService\obj\Debug\netcoreapp2.2\CategoryService.csproj.CoreCompileInputs.cache
+C:\Users\adminvm.adminvm\Desktop\training\htmlexercise\dotNetCore\Docker\docker_ex-15\CategoryService\obj\Debug\netcoreapp2.2\CategoryService.RazorAssemblyInfo.cache
+C:\Users\adminvm.adminvm\Desktop\training\htmlexercise\dotNetCore\Docker\docker_ex-15\CategoryService\obj\Debug\netcoreapp2.2\CategoryService.RazorAssemblyInfo.cs
+C:\Users\adminvm.adminvm\Desktop\training\htmlexercise\dotNetCore\Docker\docker_ex-15\CategoryService\obj\Debug\netcoreapp2.2\CategoryService.RazorTargetAssemblyInfo.cache
+C:\Users\adminvm.adminvm\Desktop\training\htmlexercise\dotNetCore\Docker\docker_ex-15\CategoryService\obj\Debug\netcoreapp2.2\CategoryService.dll
+C:\Users\adminvm.adminvm\Desktop\training\htmlexercise\dotNetCore\Docker\docker_ex-15\CategoryService\obj\Debug\netcoreapp2.2\CategoryService.pdb
+C:\Users\adminvm.adminvm\Desktop\training\htmlexercise\dotNetCore\Docker\docker_ex-15\CategoryService\obj\Debug\netcoreapp2.2\CategoryService.genruntimeconfig.cache

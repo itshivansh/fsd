@@ -1,0 +1,39 @@
+version: '3'
+services:
+  authenticationservice:
+    image: authapp
+    build: AuthenticationService
+    ports: 
+      - "8080:80"
+    depends_on:
+      - authenticationsqldb
+    environment:
+      SQL_CONNECTION: "Server=authenticationsqldb;database=DockerDb;User Id=sa;password=pass@123"
+
+  categoryservice:
+    image: catapp
+    build: CategoryService
+    ports: 
+      - "8090:80"
+    depends_on:
+      - categorymongodb
+    environment:
+      MONGO_CONNECTION: "mongodb://categorymongodb:27017"
+
+  authenticationsqldb:
+    image: mcr.microsoft.com/mssql/server:2017-latest
+    ports:
+      - "1433:1433"
+    environment:
+      SA_PASSWORD: "pass@123"
+      ACCEPT_EULA: "Y"
+
+  categorymongodb:
+    image: mongo
+    ports:
+      - "27017:27017"
+
+
+
+
+
